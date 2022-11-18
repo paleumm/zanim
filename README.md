@@ -1,6 +1,4 @@
 # zanim
  Cluster Management Tools wrapper
 
-### monitoring
-
-### Job submit
+**Zanim** is an open-source project that offers a complete CLI wrapper for cluster management tools. 
